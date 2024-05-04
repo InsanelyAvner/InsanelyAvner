@@ -1,8 +1,9 @@
-# Hi 👋, I'm Avner
+# InsanelyAvner
   
 
-I'm a passionate frontend developer from Singapore &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Hi there, my name is <a href="https://avner.sg/" target="_blank">Avner</a> and I'm a passionate frontend developer from Singapore &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://avner.sg/)
 [![Instagram Badge](https://img.shields.io/badge/-avnerka__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/avnerka_)
 [![Youtube Badge](https://img.shields.io/badge/-avner-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@avner21)
 [![Gmail Badge](https://img.shields.io/badge/-avner.real-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avner.real@gmail.com)](mailto:avner.real@gmail.com)
