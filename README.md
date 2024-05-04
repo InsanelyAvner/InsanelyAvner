@@ -9,6 +9,7 @@ Hi there, my name is Avner and I'm a passionate frontend developer from Singapor
 [![Gmail Badge](https://img.shields.io/badge/-avner.real-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avner.real@gmail.com)](mailto:avner.real@gmail.com)
 ![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Finsanelyavner%2Finsanelyavner.json&style=flat&label=visitors&color=orange)
 [![last Updated](https://img.shields.io/github/last-commit/InsanelyAvner/InsanelyAvner/main?label=last%20updated&style=flat)](https://github.com/InsanelyAvner/InsanelyAvner/commits)
+[![codewars](https://www.codewars.com/users/avner21/badges/micro)](https://www.codewars.com/users/avner21)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=InsanelyAvner&theme=onedark&no-frame=true&row=1)
   
