@@ -3,11 +3,10 @@
 </div>  
   
 
-# <div align="left">Hi 👋, I'm Avner</div>
+# Hi 👋, I'm Avner
   
 
 I'm a passionate frontend developer from Singapore &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-
 
 [![Instagram Badge](https://img.shields.io/badge/-avnerka__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/avnerka_)
 [![Youtube Badge](https://img.shields.io/badge/-avner-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@avner21)
@@ -133,10 +132,13 @@ I'm glad to see you here, and thank you for your visit!<br>Here, you can get acc
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📈 InsanelyAvner's Github Stats:
 
-<br/>  
+<div align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsanelyAvner&theme=react" height=160px alt="InsanelyAvner's Programming Languages"/>
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=InsanelyAvner&show_icons=true&theme=react" height=160px alt="InsanelyAvner's Github Stats">
+</div>
 
 
 ## Recent Blog Posts  
@@ -148,23 +150,3 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
