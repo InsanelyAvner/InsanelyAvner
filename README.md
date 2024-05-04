@@ -5,7 +5,7 @@ Hi there, my name is Avner and I'm a passionate frontend developer from Singapor
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://avner.sg/)
 [![Instagram Badge](https://img.shields.io/badge/-avnerka__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/avnerka_)
-[![Youtube Badge](https://img.shields.io/badge/-avner-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@avner21)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RealAvner)
 [![Gmail Badge](https://img.shields.io/badge/-avner.real-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avner.real@gmail.com)](mailto:avner.real@gmail.com)
 ![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Finsanelyavner%2Finsanelyavner.json&style=flat&label=visitors&color=orange)
 [![last Updated](https://img.shields.io/github/last-commit/InsanelyAvner/InsanelyAvner/main?label=last%20updated&style=flat)](https://github.com/InsanelyAvner/InsanelyAvner/commits)
