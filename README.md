@@ -12,13 +12,13 @@ I'm a passionate frontend developer from Singapore &nbsp; <img src="https://medi
 ![trophy](https://github-profile-trophy.vercel.app/?username=InsanelyAvner&theme=onedark&no-frame=true&row=1)
   
 
-#### Welcome to my profile!  
+## Welcome to my profile!  
   
 
 I'm glad to see you here, and thank you for your visit!<br>Here, you can get access to all of my open source projects, works, and repositories.  
   
 
-#### A little piece of myself:  
+## A little piece of myself:  
   
 
 - 🏫 I am a High School Student at Hwa Chong Institution  
