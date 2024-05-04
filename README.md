@@ -30,10 +30,7 @@ I'm glad to see you here, and thank you for your visit!<br>Here, you can get acc
 - 📒 I am currently working on Lecturise, an AI note-taking web app  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+- ⚡ Fun fact: I use tabs over spaces   
 
 
 ## My Skill Set  
