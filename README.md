@@ -1,7 +1,7 @@
 # InsanelyAvner
   
 
-Hi there, my name is Avner and I'm a passionate frontend developer from Singapore &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+Hi there, my name is Avner and I'm a passionate frontend developer from Singapore&nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://avner.sg/)
 [![Instagram Badge](https://img.shields.io/badge/-avnerka__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/avnerka_)
