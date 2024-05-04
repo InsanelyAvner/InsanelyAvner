@@ -3,10 +3,19 @@
 </div>  
   
 
-# <div align="left">Hi 👋, I'm Avner</div>  
+# <div align="left">Hi 👋, I'm Avner</div>
   
 
-I'm a passionate frontend developer from Singapore  
+I'm a passionate frontend developer from Singapore &nbsp; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+
+[![Instagram Badge](https://img.shields.io/badge/-avnerka__-e4405f?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/avnerka_)
+[![Youtube Badge](https://img.shields.io/badge/-avner-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@p55d2k)](https://www.youtube.com/@avner21)
+[![Gmail Badge](https://img.shields.io/badge/-avner.real-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:avner.real@gmail.com)](mailto:avner.real@gmail.com)
+![visitors](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Finsanelyavner%2Finsanelyavner.json&style=flat&label=visitors&color=orange)
+[![last Updated](https://img.shields.io/github/last-commit/InsanelyAvner/InsanelyAvner/main?label=last%20updated&style=flat)](https://github.com/InsanelyAvner/InsanelyAvner/commits)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=InsanelyAvner&theme=onedark&no-frame=true&row=1)
   
 
 #### Welcome to my profile!  
