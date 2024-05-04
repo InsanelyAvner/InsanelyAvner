@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Avner</div>  
+# <div align="center">Hi 👋, I'm Avner</div>  
   
 
 I'm a passionate frontend developer from Singapore  
