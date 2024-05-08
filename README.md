@@ -106,3 +106,8 @@ I'm glad to see you here, and thank you for your visit!<br>Here, you can get acc
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=InsanelyAvner&show_icons=true&theme=react" height=160px alt="InsanelyAvner's Github Stats">
 </div>
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
