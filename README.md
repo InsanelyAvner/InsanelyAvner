@@ -1,13 +1,12 @@
 ![HEADER](https://files.catbox.moe/z8uc8v.png)
+## About Me
+  <ul>
+    <li> 📚 I am a student and code as a hobby</li>
+    <li> 💻 I mainly do full stack development & cybersecurity</li>
+    <li> 🧹 I'm trying to keep this readme as clean as possible</li>
+  </ul>
 
-
-<details open>
-<summary> ☎️ A little about me</summary>
-* 📚 I am a student and code as a hobby
-* 💻 I mainly do full stack development & cybersecurity
-* 🧹 I'm trying to keep this readme as clean as possible
-</details>
-
+<br>
 <details>
 <summary> 🦑 What Do I Use to Build, and Create?</summary>
 
