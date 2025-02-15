@@ -1,4 +1,5 @@
-![HEADER](https://files.catbox.moe/z8uc8v.png)
+![HEADER](https://github.com/InsanelyAvner/InsanelyAvner/blob/main/assets/InsanelyAvner.png?raw=true)
+
 ## About Me
   <ul>
     <li> 📚 I am a student and code as a hobby</li>
