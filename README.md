@@ -2,9 +2,9 @@
 
 ## About Me
   <ul>
-    <li> 📚 I am a student and code as a hobby</li>
-    <li> 💻 I mainly do full stack development & cybersecurity</li>
-    <li> 🧹 I'm trying to keep this readme as clean as possible</li>
+    <li>I'm Avner, a student and a developer</li>
+    <li>I mainly do full stack development & cybersecurity</li>
+    <li>I'm trying to keep this readme as clean as possible</li>
   </ul>
 
 <br>
